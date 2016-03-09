@@ -1,0 +1,13 @@
+{
+    "name": "news-header",
+    "type": "screen",
+    "params": {
+        "param1": {
+            "name":"menu",
+            "type":"array",
+            "elements":["keyword", "title"],
+            "description": "", 
+            "title": "Menu items" 
+        }
+    }
+}
